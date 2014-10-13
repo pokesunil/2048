@@ -3,7 +3,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
+  background: #ffcc99;
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -210,7 +210,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #1e6477;
+  background: #993300;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -402,40 +402,40 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-family: 'Source Code Pro', Courier;
-    font-size: 16px; 
+    font-size: 16px;
     color: #354b59;}
   .tile.tile-2 .tile-inner {
-    background: url('../tile-sets/udacity/2.png');
+    background: url('../tile-sets/pokemons/pokeball.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('../tile-sets/udacity/4.png');
+    background: url('../tile-sets/pokemons/pikachu.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url('../tile-sets/udacity/8.png');
+    background: url('../tile-sets/pokemons/squirtle.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 11px;
   }
   .tile.tile-16 .tile-inner {
-    background: url('../tile-sets/udacity/16.png');
+    background: url('../tile-sets/pokemons/bulbasaur.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/udacity/32.png');
+    background: url('../tile-sets/pokemons/charmander.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
   }
   .tile.tile-64 .tile-inner {
-    background: url('../tile-sets/udacity/64.png');
+    background: url('../tile-sets/pokemons/meowth.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
@@ -443,7 +443,7 @@ hr {
   }
   .tile.tile-128 .tile-inner {
     font-weight: medium;
-    background: url('../tile-sets/udacity/128.png');
+    background: url('../tile-sets/pokemons/pidgeot.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
@@ -452,7 +452,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 12px; } }
   .tile.tile-256 .tile-inner {
-    background: url('../tile-sets/udacity/256.png');
+    background: url('../tile-sets/pokemons/gengar.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
@@ -461,7 +461,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 16px; } }
   .tile.tile-512 .tile-inner {
-    background: url('../tile-sets/udacity/512.png');
+    background: url('../tile-sets/pokemons/kadabra.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
@@ -470,7 +470,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 13px; } }
   .tile.tile-1024 .tile-inner {
-    background: url('../tile-sets/udacity/1024.png');
+    background: url('../tile-sets/pokemons/onix.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
@@ -479,7 +479,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 10px; } }
   .tile.tile-2048 .tile-inner {
-    background: url('../tile-sets/udacity/2048.png');
+    background: url('../tile-sets/pokemons/sandshrew.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -991,7 +991,7 @@ a.learn:hover, a.keep-playing-button:hover, a.learn-low:hover {
   cursor: pointer;
   display: block;
   text-align: center;
-  float: right; 
+  float: right;
   margin-top: 7px;
 }
 
