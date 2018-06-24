@@ -5,6 +5,7 @@ The original version is a small clone of [1024](https://play.google.com/store/ap
 
 ### To Play
 Click on the link below to play the modified version of 2048.
+
 [pokemon 2048](http://pokesunil.github.io/2048/)
 
 ### Notes for the Udacity version
